@@ -2,7 +2,7 @@ name: Power On Droplet
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # هذا الوقت UTC
+    - cron: '0 8 * * *'   # هذا الوقت UTC
   workflow_dispatch:
 
 jobs:
